@@ -14,11 +14,12 @@ Coba buat file markdown
 
 >Dan Geser lagi
 
-[link](haikalhasbi.wordpress.com)
+[haikalhasbi.wordpress.com](haikalhasbi.wordpress.com)
+
 ###Buat bullet
 
-        *Gak
-        *Bulat
+        * Gak
+        * Bulat
 
 ```sh
 $ sudo su
