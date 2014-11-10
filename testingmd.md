@@ -9,15 +9,18 @@ Coba buat file markdown
         - Tiga
         
 >Geser Kekiri
+
 >Lagi geser
+
 >Dan Geser lagi
 
-[haikalhasbi.wordpress.com]
+[link](haikalhasbi.wordpress.com)
 ###Buat bullet
-*Gak
-*Bulat
 
-'''sh
+        *Gak
+        *Bulat
+
+```sh
 $ sudo su
-'''
+```
 
