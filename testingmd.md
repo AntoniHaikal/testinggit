@@ -14,13 +14,13 @@ Coba buat file markdown
 
 >Dan Geser lagi
 
-[haikalhasbi.wordpress.com](haikalhasbi.wordpress.com)
+[link](haikalhasbi.wordpress.com)
 
 ###Buat bullet
 
         * Gak
         * Bulat
-
+	* Ketiga
 ```sh
 $ sudo su
 ```
